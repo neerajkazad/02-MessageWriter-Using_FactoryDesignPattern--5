@@ -1,0 +1,7 @@
+Program No: 5
+This is the program by which we can make our classes loosely coupled.
+
+Even though we are using Factory class but we are refering to Logical class name and if we want to switch from "html" to
+"pdf" then again we have to modify in the MessageWriter class.so this program is also makes our class to tightly copled 
+for better solution refer:
+03-MessageWriter(Using_SetterMethod)-6
